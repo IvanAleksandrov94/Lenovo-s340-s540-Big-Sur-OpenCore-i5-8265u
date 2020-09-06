@@ -11,8 +11,8 @@
 |Audio:        |Realtek ALC257 |
 |Camera:          |Inbuilt|
 
-#What's working:
--Keyboard
+# What's working:
+- Keyboard
 Trackpad, gestures.
 Audio, Headphones
 Internal graphics with fill acceleration.
