@@ -1,5 +1,7 @@
 # Lenovo s340 Big Sur OpenCore 
 
+![alt tag](https://i.ibb.co/RzW810W/Lenovo.png "Lenovo s340")​
+
 ## SYSTEM
 
 |||
