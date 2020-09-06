@@ -22,6 +22,7 @@
 |Camera:          |Inbuilt|
 
 ## What's working:
+  - USB Ports, USB-C :white_check_mark:
   - Keyboard :white_check_mark:
   - Trackpad, gestures. :white_check_mark:
   - Audio, Headphones :white_check_mark:
@@ -45,25 +46,25 @@ Keyboard should already be working at this point using VoodooPS2Controller.
 
 ## Brightness and Volume shortcuts:
 Volume already works. For brightness fix, use the SSDT-Q1112 patch.
-Also apply the _Q11->XQ11 and _Q12->XQ12 rename patch via clover config.
+Also apply the _Q11->XQ11 and _Q12->XQ12 rename patch via OpenCore config.
 
 ## Trackpad:
 Install latest VoodooI2C.kext and VoodooI2CHID.kext
-Add SSDT-GPI0 and SSDT-XOSI hotpatches to Clover/ACPI/patched
+Add SSDT-GPI0 and SSDT-XOSI hotpatches to OS/ACPI 
 Make sure change _OSI to XOSI patch is enabled in your config.plist.
 
 ## Internal Graphics:
 Should already be working with the config.plist. If you have slightly different configuration; use hackintool to generate your own patch.
 
 ## Backlight:
-Add SSDT-PNLFCFL.aml to clover/ACPI/patched folder
+Add SSDT-PNLFCFL.aml to OS/ACPI folder
 Displays under System Preferences should now have a brightness slider.
 
 ## Battery Status:
-Install latest SMCBatteryManager.kext to clover/kext
+Install latest SMCBatteryManager.kext to OS/kext
 
 ## Processor features:
-Install SMCProcessor.kext to clover/kext
+Install SMCProcessor.kext to OS/kext
 
 ## Audio:
 To enable Intel HD Audio add AppleALC.kext.
