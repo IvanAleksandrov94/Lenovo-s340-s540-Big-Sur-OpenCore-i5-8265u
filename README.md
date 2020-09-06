@@ -32,12 +32,10 @@
   - :white_check_mark:   Inbuilt Camera
 
 ## What's Not Working:
-  - :x:   Card reader.
-  - :bangbang:   HDMI
+  - Card reader. :x:
+  - HDMI :bangbang:
 
 
-> **BIOS:**
-Ensure your disk is in AHCI mode. Here are the settings that I used.
 
 
 # Installation:
