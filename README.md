@@ -75,7 +75,7 @@ Works. No extra files needed.
 ## CPU power management:
 Works. No extra files needed.
 
-# Fix no HDMI output problem according to following Guide
+# -Fix no HDMI output problem according to following Guide-
 
 REF General Framebuffer Patching Guide using Hackintool
 Intel Framebuffer patching using WhateverGreen
