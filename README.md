@@ -27,7 +27,7 @@ HDMI
 
 
 Installation
-BIOS:
+> **BIOS:**
 Ensure your disk is in AHCI mode. Here are the settings that I used.
 
 
