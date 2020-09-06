@@ -2,6 +2,14 @@
 
 ![alt tag](https://i.ibb.co/RzW810W/Lenovo.png "Lenovo s340")​
 
+## SCEENSHOTS:
+![alt tag](https://i.ibb.co/Sf6wDQ4/2020-09-06-20-26-03.png "Lenovo s340")​
+![alt tag](https://i.ibb.co/SwCYHfc/2020-09-06-20-25-12.png "Lenovo s340")​
+![alt tag](https://i.ibb.co/Gn9V3Bv/2020-09-06-15-43-19.png "Lenovo s340")​
+![alt tag](https://i.ibb.co/yV2Bm52/2020-09-06-15-31-36.png "Lenovo s340")​
+
+
+
 ## SYSTEM
 
 |||
