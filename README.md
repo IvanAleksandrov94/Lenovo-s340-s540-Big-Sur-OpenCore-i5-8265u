@@ -11,25 +11,26 @@
 |Audio:        |Realtek ALC257 |
 |Camera:          |Inbuilt|
 
-# What's working:
+## What's working:
 - Keyboard
-Trackpad, gestures.
-Audio, Headphones
-Internal graphics with fill acceleration.
-Brightness control.
-Sleep
-Sleep and Wake with Lid Open and Close
-Inbuilt Camera
+- Trackpad, gestures.
+- Audio, Headphones
+- Internal graphics with fill acceleration.
+- Brightness control.
+- Sleep
+- Sleep and Wake with Lid Open and Close
+- Inbuilt Camera
 
-What's Not Working:
-Card reader.
-HDMI
+## What's Not Working:
+- Card reader.
+- HDMI
 
 
-Installation
 > **BIOS:**
 Ensure your disk is in AHCI mode. Here are the settings that I used.
 
+
+# Installation
 
 Keyboard:
 Keyboard should already be working at this point using VoodooPS2Controller.
