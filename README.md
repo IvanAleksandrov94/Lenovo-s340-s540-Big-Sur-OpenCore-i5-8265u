@@ -1,11 +1,15 @@
 # Lenovo s340 Big Sur OpenCore 
 
-Processor: Intel Core  i5-8265U (Whiskey Lake)
-Memory: 4GB Soldered + 4gb
-Graphics: Integrated Intel UHD Graphics 620
-Wireless Network: Broadcom BCM94322
-Audio: Realtek ALC257 
-Camera: Inbuilt
+## SYSTEM
+
+|||
+|----------------|------------------------------------------------------------|
+|Processor:| Intel Core  i5-8265U (Whiskey Lake) |
+|Memory:          |4GB Soldered + 4gb  |         
+|Graphics:         |Integrated Intel UHD Graphics 620|
+|Wireless Network:          |Broadcom BCM94322|
+|Audio:        |Realtek ALC257 |
+|Camera:          |Inbuilt|
 
 What's working:
 Keyboard
