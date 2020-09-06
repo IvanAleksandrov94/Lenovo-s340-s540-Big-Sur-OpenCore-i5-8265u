@@ -32,7 +32,7 @@ Ensure your disk is in AHCI mode. Here are the settings that I used.
 
 # Installation
 
-##**Keyboard:**
+## Keyboard:
 Keyboard should already be working at this point using VoodooPS2Controller.
 
 **Brightness and Volume shortcuts:**
