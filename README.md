@@ -81,7 +81,7 @@ Works. No extra files needed.
 REF General Framebuffer Patching Guide using Hackintool
 Intel Framebuffer patching using WhateverGreen
 
-**1. Use PlistEdit pro edit config.plist under devices\properties\PciRoot(0)/Pci(0x2,0x0) change to PciRoot(0x0)/Pci(0x2,0x0), use alldata method, as below illustrated Modify the busId and Type to make HDMI and type-c to DP output work.**
+**1. Use PlistEdit pro edit config.plist under DeviceProperties/Add PciRoot(0)/Pci(0x2,0x0) change to PciRoot(0x0)/Pci(0x2,0x0), use alldata method, as below illustrated Modify the busId and Type to make HDMI and type-c to DP output work.**
 
 >ID: 3EA50009, STOLEN: 57 MB, FBMEM: 0 bytes, VRAM: 1536 MB, Flags: 0x00830B0A
 TOTAL STOLEN: 58 MB, TOTAL CURSOR: 1 MB (1572864 bytes), MAX STOLEN: 172 MB, MAX OVERALL: 173 MB (181940224 bytes)
