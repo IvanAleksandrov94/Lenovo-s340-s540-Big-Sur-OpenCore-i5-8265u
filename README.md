@@ -22,18 +22,18 @@
 |Camera:          |Inbuilt|
 
 ## What's working:
-  - :white_check_mark: Keyboard
-  - :white_check_mark:Trackpad, gestures.
-  - :white_check_mark:Audio, Headphones
-  - :white_check_mark: Internal graphics with fill acceleration.
-  - :white_check_mark: Brightness control.
-  - :white_check_mark: Sleep
-  - :white_check_mark: Sleep and Wake with Lid Open and Close
-  - :white_check_mark: Inbuilt Camera
+  - :white_check_mark:   Keyboard
+  - :white_check_mark:   Trackpad, gestures.
+  - :white_check_mark:   Audio, Headphones
+  - :white_check_mark:   Internal graphics with fill acceleration.
+  - :white_check_mark:   Brightness control.
+  - :white_check_mark:   Sleep
+  - :white_check_mark:   Sleep and Wake with Lid Open and Close
+  - :white_check_mark:   Inbuilt Camera
 
 ## What's Not Working:
-  - :x: Card reader.
-  - :bangbang: HDMI
+  - :x:   Card reader.
+  - :bangbang:   HDMI
 
 
 > **BIOS:**
