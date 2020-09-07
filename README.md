@@ -31,9 +31,10 @@
   - Sleep :white_check_mark:
   - Sleep and Wake with Lid Open and Close :white_check_mark:
   - Inbuilt Camera :white_check_mark:
+  - CPU & Fan Control :white_check_mark:
 
 ## What's Not Working:
-  - Card reader. :x:
+  - Card reader. (Fixed)!!!
   - HDMI :bangbang:
 
 
@@ -45,7 +46,7 @@
 Keyboard should already be working at this point using VoodooPS2Controller.
 
 ## Brightness and Volume shortcuts:
-Volume already works. For brightness fix, use the SSDT-Q1112 patch.
+Volume already works. For brightness fix, use the SSDT-BRKEY patch.
 Also apply the _Q11->XQ11 and _Q12->XQ12 rename patch via OpenCore config.
 
 ## Trackpad:
