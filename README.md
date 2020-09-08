@@ -26,7 +26,7 @@
   - CPU & Fan Control :white_check_mark:
   - Handoff :white_check_mark:
   - HIDPI [instruction](https://github.com/xzhih/one-key-hidpi/issues/138 "") :white_check_mark:
-  - [If suddenly the sound does not work after waking up, click.](https://drive.google.com/file/d/1CZtY2bfnIAD0Rcoczf5b9F2TR8YYlhZc/view?usp=sharing"") :white_check_mark:
+  - If suddenly the headphones sound does not work after waking up, [click.](https://drive.google.com/file/d/1CZtY2bfnIAD0Rcoczf5b9F2TR8YYlhZc/view?usp=sharing"") :white_check_mark:
 
 ## ~~What's Not Working~~:
   - ~~Card reader.~~ (Fixed) :bangbang:
