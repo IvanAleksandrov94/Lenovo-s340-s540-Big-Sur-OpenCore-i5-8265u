@@ -22,6 +22,7 @@
   - Brightness control. :white_check_mark:
   - Sleep :white_check_mark:
   - Sleep and Wake with Lid Open and Close :white_check_mark:
+  - Battery Status :white_check_mark:
   - Inbuilt Camera :white_check_mark:
   - CPU & Fan Control :white_check_mark:
   - Handoff :white_check_mark:
