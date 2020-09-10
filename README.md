@@ -1,4 +1,4 @@
-# Lenovo s340 Big Sur OpenCore 
+# Lenovo s340 & s540 Big Sur OpenCore 
 
 ![alt tag](https://i.ibb.co/RzW810W/Lenovo.png "Lenovo s340")​
 
