@@ -38,11 +38,9 @@
 ![alt tag](https://i.ibb.co/Sf6wDQ4/2020-09-06-20-26-03.png "Lenovo s340")​
 ![alt tag](https://i.ibb.co/Gn9V3Bv/2020-09-06-15-43-19.png "Lenovo s340")​
 ![alt tag](https://i.ibb.co/yV2Bm52/2020-09-06-15-31-36.png "Lenovo s340")​
-
 ![alt tag](https://i.ibb.co/qYw7wxc/2020-09-12-16-41-27.png "Lenovo s540")​
 ![alt tag](https://i.ibb.co/LdC87tj/2020-09-12-16-32-25.png "Lenovo s540")​
 ![alt tag](https://i.ibb.co/vXngzVJ/2020-09-12-16-45-54.png "Lenovo s540")​
-
 ![alt tag](https://i.ibb.co/SwCYHfc/2020-09-06-20-25-12.png "Lenovo s340")​
 ![alt tag](https://i.ibb.co/4Trqj3x/2020-09-08-18-33-51.png "Lenovo s540")​
 
