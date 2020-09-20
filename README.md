@@ -20,7 +20,6 @@
   - Trackpad, gestures. :white_check_mark:
   - Audio, Headphones :white_check_mark:
   - Internal graphics with fill acceleration. :white_check_mark:
-  - Brightness control. :white_check_mark:
   - Control brightness, sound and touchpad via keyboard keys :white_check_mark:
   - Sleep :white_check_mark:
   - Sleep and Wake with Lid Open and Close :white_check_mark:
