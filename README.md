@@ -46,6 +46,7 @@
 ![alt tag](https://i.ibb.co/vXngzVJ/2020-09-12-16-45-54.png "Lenovo s540")​
 ![alt tag](https://i.ibb.co/SwCYHfc/2020-09-06-20-25-12.png "Lenovo s340")​
 ![alt tag](https://i.ibb.co/4Trqj3x/2020-09-08-18-33-51.png "Lenovo s540")​
+![alt tag](https://i.ibb.co/PFBLX0J/2020-09-20-16-01-11.png "Lenovo s540")​
 
 
 
