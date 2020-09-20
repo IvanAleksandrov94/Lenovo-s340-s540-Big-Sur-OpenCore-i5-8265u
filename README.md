@@ -14,7 +14,7 @@
 |Camera:          |Inbuilt|
 
 ## What's working:
-  - Wi-Fi (Broadcom BCM94322) :white_check_mark:
+  - Wi-Fi/Bluetooth (Broadcom BCM94322) :white_check_mark:
   - USB Ports, USB-C :white_check_mark:
   - Keyboard :white_check_mark:
   - Trackpad, gestures. :white_check_mark:
