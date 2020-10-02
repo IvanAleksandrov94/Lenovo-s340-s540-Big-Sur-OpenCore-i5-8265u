@@ -13,6 +13,10 @@
 |Audio:        |Realtek ALC257 |
 |Camera:          |Inbuilt|
 
+# Tested on bigsur beta 9
+# For automatic updates use "SecureBootModel=Disabled" in the config.plist
+
+
 ## What's working:
   - Wi-Fi/Bluetooth (Broadcom BCM94322) :white_check_mark:
   - USB Ports, USB-C :white_check_mark:
