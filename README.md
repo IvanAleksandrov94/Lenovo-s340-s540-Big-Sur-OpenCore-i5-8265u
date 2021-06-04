@@ -13,7 +13,7 @@
 |Audio:        |Realtek ALC257 |
 |Camera:          |Inbuilt|
 
-# Tested on bigsur beta 11.1 (20c5048k)
+# Tested on bigsur stable 11.4
 # For automatic updates use "SecureBootModel=Disabled" in the config.plist
 
 
